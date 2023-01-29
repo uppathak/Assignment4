@@ -1,1 +1,2 @@
 master text file on master branch.
+Adding line from the private branch.
